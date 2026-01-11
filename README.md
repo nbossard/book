@@ -16,6 +16,12 @@ Date de réalisation : 14 mars 2025
 
 Date de réalisation : 2 décembre 2024
 
+### Chaussure en poterie
+
+![[chaussure-potterie.jpg]]
+**Techniques** : TODO
+Date de réalisation : TODO
+
 ## Projets collaboratifs
 
 TODO: travail en Blender pour projet musique sur https://www.jeveuxaider.gouv.fr/
