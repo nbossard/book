@@ -18,7 +18,7 @@ Date de réalisation : 2 décembre 2024
 
 ### Chaussure en poterie
 
-![[chaussure-potterie.jpg]]
+![](photos/chaussure-potterie.jpg)
 **Techniques** : TODO
 Date de réalisation : TODO
 
